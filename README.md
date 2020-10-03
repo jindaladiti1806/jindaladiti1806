@@ -24,7 +24,11 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jindaladiti1806&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+![Aditi's github stats](https://github-readme-stats.vercel.app/api?username=jindaladiti1806&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jindaladiti1806&hide=scss&layout=compact&theme=tokyonight)
+
+<!--
+
 
 
 
