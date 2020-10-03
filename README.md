@@ -27,7 +27,6 @@
 ![Aditi's github stats](https://github-readme-stats.vercel.app/api?username=jindaladiti1806&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jindaladiti1806&hide=scss&layout=compact&theme=tokyonight)
 
-<!--
 
 
 
