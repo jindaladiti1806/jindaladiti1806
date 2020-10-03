@@ -9,9 +9,7 @@
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-aditijindal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditijindal/)](https://www.linkedin.com/in/aditijindal/)
 [![Twitter Badge](https://img.shields.io/badge/-@jindal_aditi_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jindal_aditi_)](https://twitter.com/jindal_aditi_)
-[![Gmail Badge](https://img.shields.io/badge/-jindaladiti1806@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jindaladiti1806@gmail.com)](mailto:jindaladiti1806@gmail.com)
-<a href="https://www.instagram.com/jindal_aditi_">
-<img alt="@jindal_aditi_ | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" />
+[![Gmail Badge](https://img.shields.io/badge/-jindaladiti1806@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jindaladiti1806@gmail.com)](mailto:jindaladiti1806@gmail.com)   <a href="https://www.instagram.com/jindal_aditi_"><img alt="@jindal_aditi_ | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" />
 </a> 
 
 
@@ -32,6 +30,6 @@
 
 
 
-#### _Glad you opened my profile. Have a nice day!
+#### _Glad you opened my profile. Have a nice day!_
 
 
