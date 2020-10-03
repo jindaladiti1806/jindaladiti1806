@@ -1,4 +1,4 @@
-## Hey !! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm Aditi
+## Hey !! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm [Aditi jindal ](https://Aditijindal.me/)
 ![brightgreen](https://komarev.com/ghpvc/?username=jindaladiti1806)
 
 
