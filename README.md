@@ -1,6 +1,9 @@
 ## Hey !! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm [Aditi jindal ](https://Aditijindal.me/)
 ![brightgreen](https://komarev.com/ghpvc/?username=jindaladiti1806)
 
+<img src="https://github.com/jindaladiti1806/jindaladiti1806/blob/master/code.svg" width="320" align='right'>
+
+
 
 - 🔭 I’m currently working on Django
 - 🌱 I’m currently learning Competitive Programming
@@ -30,7 +33,7 @@
 
 
 
-#### _Glad you opened my profile. Have a nice day!_<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="29px">
+#### _Glad you opened my profile. Have a nice day!_<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
 
 
 
