@@ -1,5 +1,6 @@
 <img src="https://i.imgur.com/JoF35Do.gif" width="250">  
-## Hey !! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm [Aditi jindal ](https://Aditijindal.me/)![brightgreen](https://komarev.com/ghpvc/?username=jindaladiti1806)
+## Hey !! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm [Aditi jindal ](https://Aditijindal.me/)
+![brightgreen](https://komarev.com/ghpvc/?username=jindaladiti1806)
 <img src="https://github.com/jindaladiti1806/jindaladiti1806/blob/master/code.svg" width="320" align='right'>
 
 
