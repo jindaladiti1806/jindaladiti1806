@@ -1,4 +1,4 @@
-## ![Hello](Hello.gif) !! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm [Aditi jindal ](https://Aditijindal.me/)
+## ![Hello](Hello.gif) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> [Aditi jindal ](https://Aditijindal.me/)
 ![brightgreen](https://komarev.com/ghpvc/?username=jindaladiti1806)
 
 <img src="https://github.com/jindaladiti1806/jindaladiti1806/blob/master/code.svg" width="320" align='right'>
