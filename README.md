@@ -19,7 +19,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a huge fan of flying beast
 
-##### Languages, Frameworks & Tools I use
+### Languages, Frameworks & Tools I use :
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
