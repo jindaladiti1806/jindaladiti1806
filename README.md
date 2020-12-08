@@ -2,7 +2,7 @@
 ![brightgreen](https://komarev.com/ghpvc/?username=jindaladiti1806)
 
 <img src="https://github.com/jindaladiti1806/jindaladiti1806/blob/master/code.svg" width="320" align='right'>
-
+<img src="https://img.shields.io/badge/Hacktoberfest-2020-blueviolet">
 
 
 - 🔭 I’m currently working on Django
@@ -31,9 +31,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jindaladiti1806&hide=scss&layout=compact&theme=tokyonight)
 
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
-#### _Glad you opened my profile. Have a nice day!_<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
+
+
 
 
 
