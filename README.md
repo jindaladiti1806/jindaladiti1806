@@ -2,7 +2,7 @@
 ![brightgreen](https://komarev.com/ghpvc/?username=jindaladiti1806)
 
 <img src="https://github.com/jindaladiti1806/jindaladiti1806/blob/master/code.svg" width="320" align='right'>
-<img src="https://img.shields.io/badge/Hacktoberfest-2020-blueviolet">
+
 
 
 - 🔭 I’m currently working on Django
@@ -19,12 +19,15 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a huge fan of flying beast
 
-##### Languages I use
+##### Languages, Frameworks & Tools I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
+ <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+ <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 
 ![Aditi's github stats](https://github-readme-stats.vercel.app/api?username=jindaladiti1806&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
