@@ -34,7 +34,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jindaladiti1806&hide=scss&layout=compact&theme=tokyonight)
 
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/jindaladiti1806/jindaladiti1806.github.io/graphs/commit-activity)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/jindaladiti1806/ama)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/jindaladiti1806/)
+
+
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
+
 
 
 
